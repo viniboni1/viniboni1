@@ -4,8 +4,6 @@ Sou um profissional em transição da área de construção civil, para a tecnol
 
 Hoje, curso **Engenharia de Software** e aplico as habilidades desenvolvidas no canteiro de obras e escritórios de engenharia para construir soluções digitais inteligentes. Meu foco é unir minha bagagem de mercado com **Python, IA e automações** para criar ferramentas que otimizem processos reais.
 
----
-
 ## Linguagens e Tecnologias
 <img
     aling="left"
